@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/card-validator/static/js/main.f1871605.chunk.js",
+    "main.js.map": "/card-validator/static/js/main.f1871605.chunk.js.map",
+    "runtime-main.js": "/card-validator/static/js/runtime-main.8840427f.js",
+    "runtime-main.js.map": "/card-validator/static/js/runtime-main.8840427f.js.map",
+    "static/js/2.de53f745.chunk.js": "/card-validator/static/js/2.de53f745.chunk.js",
+    "static/js/2.de53f745.chunk.js.map": "/card-validator/static/js/2.de53f745.chunk.js.map",
+    "static/js/3.aa1f2838.chunk.js": "/card-validator/static/js/3.aa1f2838.chunk.js",
+    "static/js/3.aa1f2838.chunk.js.map": "/card-validator/static/js/3.aa1f2838.chunk.js.map",
+    "index.html": "/card-validator/index.html",
+    "static/js/2.de53f745.chunk.js.LICENSE.txt": "/card-validator/static/js/2.de53f745.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8840427f.js",
+    "static/js/2.de53f745.chunk.js",
+    "static/js/main.f1871605.chunk.js"
+  ]
+}
